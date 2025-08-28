@@ -97,3 +97,16 @@ WellHub uses both **real APIs** (e.g., Wearables API, HR data, Gamification APIs
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/99d167c6-6be8-4a09-872c-928750adffdd" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e8fc2ecd-da40-41b5-bea9-c2f739008435" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/083729a3-3825-444b-a691-57a6773218c0" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/86fef011-c547-4f6e-bc19-693dd0f4f0ca" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b93b52de-3f87-4e2b-81b8-a5c0e4adde2f" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c4c2b09e-198c-4f20-829f-bb51edf2aa8e" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aebad3ef-98af-47c0-a77e-9eccf266718c" />
+
+![WhatsApp Image 2025-08-28 at 15 43 32_75389442](https://github.com/user-attachments/assets/334cb759-cd97-45e7-bf46-52e63e1b8fd1)
+
