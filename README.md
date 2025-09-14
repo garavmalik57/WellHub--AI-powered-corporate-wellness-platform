@@ -115,10 +115,9 @@ WellHub uses both **real APIs** (e.g., Wearables API, HR data, Gamification APIs
 ![WhatsApp Image 2025-09-14 at 22 18 55_cdcc1e72](https://github.com/user-attachments/assets/911e16fb-f8dc-489f-9d6c-fdacf1a5b9a1)
 
 
-![WhatsApp Image 2025-09-14 at 22 18 53_338012da](https://github.com/user-attachments/assets/b3d3b378-136d-4360-8560-fab3e8c53456)
-
 ![WhatsApp Image 2025-09-14 at 22 18 55_1f722b98](https://github.com/user-attachments/assets/bae32711-25b0-4c78-931b-4a7f51d44832)
 
+![WhatsApp Image 2025-09-14 at 22 18 53_338012da](https://github.com/user-attachments/assets/b3d3b378-136d-4360-8560-fab3e8c53456)
 
 ![WhatsApp Image 2025-09-14 at 22 18 56_e3f7c88f](https://github.com/user-attachments/assets/75a1c4ea-a8b1-46bc-9e23-533d12d1773a)
 
