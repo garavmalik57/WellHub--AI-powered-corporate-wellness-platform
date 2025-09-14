@@ -108,14 +108,23 @@ WellHub uses both **real APIs** (e.g., Wearables API, HR data, Gamification APIs
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aebad3ef-98af-47c0-a77e-9eccf266718c" />
 
-![WhatsApp Image 2025-08-28 at 15 43 32_75389442](https://github.com/user-attachments/assets/334cb759-cd97-45e7-bf46-52e63e1b8fd1)
+![WhatsApp Image 2025-09-14 at 22 18 53_a95afe87](https://github.com/user-attachments/assets/6cdc8216-f1cd-410f-861b-aba2b0d399aa)
 
-![WhatsApp Image 2025-08-28 at 15 45 23_41909121](https://github.com/user-attachments/assets/e1a61128-21ac-466b-b926-185e8f206a3e)
+![WhatsApp Image 2025-09-14 at 22 18 53_338012da](https://github.com/user-attachments/assets/b3d3b378-136d-4360-8560-fab3e8c53456)
 
-![WhatsApp Image 2025-08-28 at 15 44 23_455e457e](https://github.com/user-attachments/assets/bab803b0-1694-4373-952d-aace91f2deef)
+![WhatsApp Image 2025-09-14 at 22 18 55_1f722b98](https://github.com/user-attachments/assets/bae32711-25b0-4c78-931b-4a7f51d44832)
 
-![WhatsApp Image 2025-08-28 at 15 43 57_1e595bf6](https://github.com/user-attachments/assets/6076d57f-9367-4e1d-936b-58c4aefedcc1)
+![WhatsApp Image 2025-09-14 at 22 18 55_cdcc1e72](https://github.com/user-attachments/assets/911e16fb-f8dc-489f-9d6c-fdacf1a5b9a1)
 
-![WhatsApp Image 2025-08-28 at 15 45 50_2424221c](https://github.com/user-attachments/assets/7b1f543e-246d-415d-8319-0e96633a1868)
+![WhatsApp Image 2025-09-14 at 22 18 56_ca662997](https://github.com/user-attachments/assets/66985d9e-8d03-49e5-b829-7247ff214041)
 
+![WhatsApp Image 2025-09-14 at 22 18 56_e3f7c88f](https://github.com/user-attachments/assets/75a1c4ea-a8b1-46bc-9e23-533d12d1773a)
+
+![WhatsApp Image 2025-09-14 at 22 18 57_dfb2aefb](https://github.com/user-attachments/assets/8e2c04d6-2578-4a8a-8742-97805f102150)
+
+![WhatsApp Image 2025-09-14 at 22 18 57_a7f04e95](https://github.com/user-attachments/assets/214dc972-3bdc-4a36-a234-d8aeadf4ce20)
+
+![WhatsApp Image 2025-09-14 at 22 18 57_45147db2](https://github.com/user-attachments/assets/7cc9d4a4-177d-4c2a-a270-355944f9d58a)
+
+![WhatsApp Image 2025-09-14 at 22 18 56_fcfffd1a](https://github.com/user-attachments/assets/b3ae3e84-638f-4cbe-ba73-535329f912b5)
 
